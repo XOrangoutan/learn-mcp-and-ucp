@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [hello world, api, express, MCP, UCP, learning],
+  "keywords": ["hello world", "api", "express", "MCP", "UCP", "learning"],
   "author": "XOrangoutan",
   "license": "ISC",
   "dependencies": {
